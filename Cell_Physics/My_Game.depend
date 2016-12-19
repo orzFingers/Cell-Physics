@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1475284403 source:f:\games\alien scientist\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Cell_Physics_Again_2_Continued.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1476377185 f:\games\alien scientist\constants.h
+
+1471820038 f:\games\alien scientist\images.h
+
+1476391654 f:\games\alien scientist\cell_physics_again_2_continued.h
+
+1440347299 f:\games\alien scientist\world_handler.h
+
+1476389571 f:\games\alien scientist\input.h
+
+1476388952 f:\games\alien scientist\world.h
+
+1475280803 source:e:\games\alien scientist\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Cell_Physics_Again_2_Continued.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1476373585 e:\games\alien scientist\constants.h
+
+1471816438 e:\games\alien scientist\images.h
+
+1476388054 e:\games\alien scientist\cell_physics_again_2_continued.h
+
+1440343699 e:\games\alien scientist\world_handler.h
+
+1476385971 e:\games\alien scientist\input.h
+
+1476385352 e:\games\alien scientist\world.h
+
+1481742824 source:c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Cell_Physics_Again_2_Continued.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1481742822 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\constants.h
+
+1481742822 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\images.h
+
+1481820721 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\cell_physics_again_2_continued.h
+
+1481742830 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\world_handler.h
+
+1481742824 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\input.h
+
+1481742830 c:\users\xenya\downloads\alien scientist-20161215t000255z\alien scientist\world.h
+
